@@ -8,6 +8,6 @@
 </head>
 <body>
 <div>sandbox1: <%=environment %></div>
-    <div>version: 3</div>
+    <div>version: 4</div>
 </body>
 </html>
