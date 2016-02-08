@@ -8,6 +8,6 @@
 </head>
 <body>
 <div>sandbox1: <%=environment %></div>
-    <div>deployed via GitHub!</div>
+    <div>deployed via GitHub! (by an online change)</div>
 </body>
 </html>
